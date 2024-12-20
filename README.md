@@ -6,5 +6,7 @@
 <h2>HTML</h2> <br>
 <h2>CSS</h2> <br>
 <h2>JS</h2> <br>
+<br>
+<h2>Projeto responsivo!</h2>
 
 
