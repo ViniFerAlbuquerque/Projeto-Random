@@ -104,3 +104,14 @@ button:active {
             font-size: 35px;
         }
     }
+
+    footer {
+        margin-top: 10vh;
+        
+        p {
+            margin: 0;
+            font-size: 15px;
+        }
+    }
+
+
