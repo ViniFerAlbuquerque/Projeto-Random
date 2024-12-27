@@ -12,6 +12,8 @@
 
 <img src="https://raw.githubusercontent.com/ViniFerAlbuquerque/projeto-random/803ec5d44ad71d27adfd8d7c98a91f3ff0691a31/assets/Drawer.png">
 <br>
-https://viniferalbuquerque.github.io/projeto-random/
+
+
+[🔗raffle project!](https://viniferalbuquerque.github.io/projeto-random/target="_blank")
 
 
