@@ -14,6 +14,8 @@
 <br>
 
 
-[🔗raffle project!](https://viniferalbuquerque.github.io/projeto-random/target="_blank")
+
+<br>
+https://viniferalbuquerque.github.io/projeto-random/
 
 
