@@ -14,7 +14,7 @@
 <br>
 
 
-
+ [🔗Clique Aqui Para Acessar o Crud Gamer Club!](https://viniferalbuquerque.github.io/projeto-random/)
 <br>
 https://viniferalbuquerque.github.io/projeto-random/
 
